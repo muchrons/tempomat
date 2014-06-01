@@ -8,6 +8,7 @@ public:
   CCzujnikPredkosciJazdy();
   ~CCzujnikPredkosciJazdy();
 
+  int zmierz_predkosc();
 };
 
 #endif
